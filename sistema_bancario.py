@@ -6,7 +6,7 @@
 #caso o usuário nao tenha, uma mensagem informando que nao é possivel sacar mais que o saque deve ser mostrada
 #todos os saques devem aparecer em extrato
 #o extrato deve listar todos os depoistos e saques e o saldo atual da conta
-#formato R$ xxxx.xx
+#Formato R$ xxxx.xx
 
 operacoes_possiveis = """ 
 
